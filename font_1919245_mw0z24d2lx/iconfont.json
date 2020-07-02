@@ -1,0 +1,37 @@
+{
+  "id": "1919245",
+  "name": "dataPicker",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "13416592",
+      "name": "左箭头",
+      "font_class": "jiantou-copy",
+      "unicode": "e60f",
+      "unicode_decimal": 58895
+    },
+    {
+      "icon_id": "3141397",
+      "name": "左箭头",
+      "font_class": "arrow-left-copy",
+      "unicode": "e600",
+      "unicode_decimal": 58880
+    },
+    {
+      "icon_id": "4880556",
+      "name": "左箭头",
+      "font_class": "left",
+      "unicode": "e604",
+      "unicode_decimal": 58884
+    },
+    {
+      "icon_id": "13416596",
+      "name": "左箭头",
+      "font_class": "jiantou-copy-copy",
+      "unicode": "e610",
+      "unicode_decimal": 58896
+    }
+  ]
+}

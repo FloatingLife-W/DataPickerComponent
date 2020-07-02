@@ -1,0 +1,38 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" >
+<!--
+2013-9-30: Created.
+-->
+<svg>
+<metadata>
+Created by iconfont
+</metadata>
+<defs>
+
+<font id="iconfont" horiz-adv-x="1024" >
+  <font-face
+    font-family="iconfont"
+    font-weight="500"
+    font-stretch="normal"
+    units-per-em="1024"
+    ascent="896"
+    descent="-128"
+  />
+    <missing-glyph />
+    
+    <glyph glyph-name="jiantou-copy" unicode="&#58895;" d="M512 384m-512 0a512 512 0 1 1 1024 0 512 512 0 1 1-1024 0ZM424.64 380.96000000000004l208.768-208.736a31.616 31.616 0 0 0-44.736-44.736l-223.648 223.648a31.616 31.616 0 0 0-8.384 29.824 31.616 31.616 0 0 0 8.384 29.824l223.68 223.648a31.616 31.616 0 0 0 44.704-44.736l-208.736-208.736z"  horiz-adv-x="1024" />
+
+    
+    <glyph glyph-name="arrow-left-copy" unicode="&#58880;" d="M694.475 63.547000000000025l-56.285-58.26-393.996 392.021 393.996 392.021 56.285-58.26-331.786-333.761z"  horiz-adv-x="1024" />
+
+    
+    <glyph glyph-name="left" unicode="&#58884;" d="M329.525 704.453l56.285 58.26 393.996-392.021-393.996-392.021-56.285 58.26 331.786 333.761z"  horiz-adv-x="1024" />
+
+    
+    <glyph glyph-name="jiantou-copy-copy" unicode="&#58896;" d="M512 384m512 0a512 512 0 1 1-1024 0 512 512 0 1 1 1024 0ZM599.36 387.04l-208.768 208.736a31.616 31.616 0 0 0 44.736 44.736l223.648-223.648a31.616 31.616 0 0 0 8.384-29.824 31.616 31.616 0 0 0-8.384-29.824l-223.68-223.648a31.616 31.616 0 0 0-44.704 44.736l208.736 208.736z"  horiz-adv-x="1024" />
+
+    
+
+
+  </font>
+</defs></svg>
