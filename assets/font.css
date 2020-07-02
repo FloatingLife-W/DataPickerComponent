@@ -1,34 +1,32 @@
-@font-face {
-  font-family: 'iconfont';  /* project id 1616046 */
-  src: url('./font/iconfont.eot');
-  src: url('./font/iconfont.eot?#iefix') format('embedded-opentype'),
+@font-face {font-family: "iconfont";
+  src: url('./font/iconfont.eot?t=1593679365034'); /* IE9 */
+  src: url('./font/iconfont.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
   url('./font/iconfont.woff2') format('woff2'),
   url('./font/iconfont.woff') format('woff'),
-  url('./font/iconfont.ttf') format('truetype'),
-  url('./font/iconfont.svg#iconfont') format('svg');
+  url('./font/iconfont.ttf') format('truetype'), /* chrome, firefox, opera, Safari, Android, iOS 4.2+ */
 }
 
 .iconfont {
-  font-family: 'iconfont';
-  font-style: normal
+  font-family: "iconfont" !important;
+  font-size: 16px;
+  font-style: normal;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
 }
 
-.icon-date::before {
-  content: '\e72a';
+.icon-next-year:before {
+  content: "\e60f";
 }
 
-.icon-prev-month::before {
-  content: '\e712';
+.icon-next-month:before {
+  content: "\e600";
 }
 
-.icon-next-month::before {
-  content: '\e718';
+.icon-prev-year:before {
+  content: "\e604";
 }
 
-.icon-prev-year::before {
-  content: '\e714';
+.icon-prev-month:before {
+  content: "\e610";
 }
 
-.icon-next-year::before {
-  content: '\e713';
-}
